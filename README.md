@@ -23,13 +23,13 @@ Also writing for The Varsity and representing first-year students at Women in Co
 
 ---
 
-### ${\color{hotpink}\textsf{Skills}}$
+### ${\color{lightpink}\textsf{Skills}}$
 
 `Python` `JavaScript` `React` `C / C++` `PyTorch` `Machine Learning` `SQL` `REST APIs` `scikit-learn` `LaTeX` `Blender`
 
 ---
 
-### ${\color{hotpink}\textsf{Projects \& Research}}$
+### ${\color{lightpink}\textsf{Projects & Research}}$
 
 | | Project | Description |
 |---|---|---|
@@ -49,7 +49,7 @@ Also writing for The Varsity and representing first-year students at Women in Co
 
 ---
 
-### ${\color{hotpink}\textsf{Recognition}}$
+### ${\color{lightpink}\textsf{Recognition}}$
 
 ✦ AAAI 2026 — AI Safety &nbsp;&nbsp; ✦ TKS × Microsoft Scholar 2024 &nbsp;&nbsp; ✦ UWC Davis Scholar
 ✦ Inspirit AI Winner 2023 &nbsp;&nbsp; ✦ Technovation Girls Semifinalist 2022 &nbsp;&nbsp; ✦ UofT International Scholarship
