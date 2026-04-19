@@ -29,30 +29,12 @@ Also writing for The Varsity and representing first-year students at Women in Co
 
 ---
 
-### ${\color{lightpink}\textsf{Projects and Research}}$
-
-| | Project | Description |
-|---|---|---|
-| ✦ | **AI Control via Factored Cognition** | Co-authored AI safety research — red/blue-teaming LLMs. Submitted to AAAI 2026. |
-| ✦ | **Language-Specific LLMs** | LinceZero vs. LLaMA-3b. Paper presented at 3 intl. AI conferences in Japan. |
-| ✦ | **RevisionDojo AI Grader** | Fine-tuned LLaMA-3b grader for a Y Combinator-backed edtech platform with 300K+ users. |
-| ✦ | **Prism Adaptation Research** | Neurocybernetics study on motor learning transfer @ Chubu University. |
-
----
-
 ### ${\color{lightpink}\textsf{Experience}}$
 
 - **ML Researcher** · Algoverse AI & Cornell University *(2024 – Present)*
 - **AI & SWE Intern** · RevisionDojo *(Jun 2024 – Jan 2025)*
 - **Independent AI Researcher** · ResearchPlus *(2024 – 2025)*
 - **Editorial Writer** · The Varsity, UofT *(2025 – Present)*
-
----
-
-### ${\color{lightpink}\textsf{Recognition}}$
-
-✦ AAAI 2026 — AI Safety &nbsp;&nbsp; ✦ TKS × Microsoft Scholar 2024 &nbsp;&nbsp; ✦ UWC Davis Scholar
-✦ Inspirit AI Winner 2023 &nbsp;&nbsp; ✦ Technovation Girls Semifinalist 2022 &nbsp;&nbsp; ✦ UofT International Scholarship
 
 ---
 
