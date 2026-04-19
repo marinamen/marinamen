@@ -15,7 +15,7 @@ CS + Math @ University of Toronto &nbsp;·&nbsp; Madrid → Tokyo → Toronto
 
 ---
 
-### ${\color{hotpink}\textsf{About}}$
+### ${\color{lightpink}\textsf{About}}$
 
 CS + Math student at UofT with a background spanning AI research, software engineering, neuroscience, and linguistics. My research focuses on LLMs and AI Control — I co-authored work submitted to AAAI 2026 on *Factor(T,U): Factored Cognition Strengthens Monitoring of Untrusted AI*.
 
@@ -29,7 +29,7 @@ Also writing for The Varsity and representing first-year students at Women in Co
 
 ---
 
-### ${\color{lightpink}\textsf{Projects & Research}}$
+### ${\color{lightpink}\textsf{Projects and Research}}$
 
 | | Project | Description |
 |---|---|---|
