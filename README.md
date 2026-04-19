@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ${\color{lightpink}\textsf{Hi, I'm Marina Mendieta}}$
+# Hello, I'm Marina!
 **student · researcher · AI enthusiast**
 
 CS + Math @ University of Toronto &nbsp;·&nbsp; Madrid → Tokyo → Toronto
