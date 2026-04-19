@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ${\color{hotpink}\textsf{Hi, I'm Marina Mendieta}}$
+# ${\color{lightpink}\textsf{Hi, I'm Marina Mendieta}}$
 **student · researcher · AI enthusiast**
 
 CS + Math @ University of Toronto &nbsp;·&nbsp; Madrid → Tokyo → Toronto
@@ -40,7 +40,7 @@ Also writing for The Varsity and representing first-year students at Women in Co
 
 ---
 
-### ${\color{hotpink}\textsf{Experience}}$
+### ${\color{lightpink}\textsf{Experience}}$
 
 - **ML Researcher** · Algoverse AI & Cornell University *(2024 – Present)*
 - **AI & SWE Intern** · RevisionDojo *(Jun 2024 – Jan 2025)*
